@@ -1,0 +1,6 @@
+﻿  미로.c
+c:\users\dmsdk\documents\visual studio 2017\projects\consoleapplication3\consoleapplication3\미로.c(73): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\consoleapplication3\consoleapplication3\미로.c(112): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\consoleapplication3\consoleapplication3\미로.c(76): warning C4715: 'pop': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  ConsoleApplication3.vcxproj -> C:\Users\dmsdk\documents\visual studio 2017\Projects\ConsoleApplication3\Debug\ConsoleApplication3.exe
+  ConsoleApplication3.vcxproj -> C:\Users\dmsdk\documents\visual studio 2017\Projects\ConsoleApplication3\Debug\ConsoleApplication3.pdb (Partial PDB)

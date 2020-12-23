@@ -1,0 +1,4 @@
+﻿  희소행렬.c
+c:\users\dmsdk\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\희소행렬.c(51): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  ConsoleApplication1.vcxproj -> C:\Users\dmsdk\documents\visual studio 2017\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\dmsdk\documents\visual studio 2017\Projects\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)

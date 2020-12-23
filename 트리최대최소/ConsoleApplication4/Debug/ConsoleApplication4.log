@@ -1,0 +1,15 @@
+﻿  트리.c
+c:\users\dmsdk\documents\visual studio 2017\projects\consoleapplication4\consoleapplication4\트리.c(4): warning C4005: 'max': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdlib.h(1300): note: 'max'의 이전 정의를 참조하십시오.
+c:\users\dmsdk\documents\visual studio 2017\projects\consoleapplication4\consoleapplication4\트리.c(5): warning C4005: 'min': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdlib.h(1301): note: 'min'의 이전 정의를 참조하십시오.
+c:\users\dmsdk\documents\visual studio 2017\projects\consoleapplication4\consoleapplication4\트리.c(61): warning C4047: '함수': 'element'의 간접 참조 수준이 'TreeNode *'과(와) 다릅니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\consoleapplication4\consoleapplication4\트리.c(61): warning C4024: 'enqueue': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\consoleapplication4\consoleapplication4\트리.c(64): warning C4047: '=': 'TreeNode *'의 간접 참조 수준이 'element'과(와) 다릅니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\consoleapplication4\consoleapplication4\트리.c(65): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\consoleapplication4\consoleapplication4\트리.c(67): warning C4047: '함수': 'element'의 간접 참조 수준이 'TreeNode *'과(와) 다릅니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\consoleapplication4\consoleapplication4\트리.c(67): warning C4024: 'enqueue': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\consoleapplication4\consoleapplication4\트리.c(68): warning C4047: '함수': 'element'의 간접 참조 수준이 'TreeNode *'과(와) 다릅니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\consoleapplication4\consoleapplication4\트리.c(68): warning C4024: 'enqueue': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+  ConsoleApplication4.vcxproj -> C:\Users\dmsdk\Documents\Visual Studio 2017\Projects\ConsoleApplication4\Debug\ConsoleApplication4.exe
+  ConsoleApplication4.vcxproj -> C:\Users\dmsdk\Documents\Visual Studio 2017\Projects\ConsoleApplication4\Debug\ConsoleApplication4.pdb (Partial PDB)

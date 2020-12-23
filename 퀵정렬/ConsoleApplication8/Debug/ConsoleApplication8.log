@@ -1,0 +1,4 @@
+﻿  퀵정렬.c
+c:\users\dmsdk\documents\visual studio 2017\projects\consoleapplication8\consoleapplication8\퀵정렬.c(44): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  ConsoleApplication8.vcxproj -> C:\Users\dmsdk\Documents\Visual Studio 2017\Projects\ConsoleApplication8\Debug\ConsoleApplication8.exe
+  ConsoleApplication8.vcxproj -> C:\Users\dmsdk\Documents\Visual Studio 2017\Projects\ConsoleApplication8\Debug\ConsoleApplication8.pdb (Partial PDB)
